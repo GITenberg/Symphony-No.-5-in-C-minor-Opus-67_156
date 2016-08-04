@@ -1,0 +1,29 @@
+_repo: Symphony-No.-5-in-C-minor-Opus-67_156
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beethoven, Ludwig van
+    aliases:
+    - Beethoven, Ludwig von
+    - Beethoven, L. van (Ludwig)
+    - Van Beethoven, Ludwig
+    birthdate: 1770
+    deathdate: 1827
+    gutenberg_agent_id: '75'
+    url: http://www.gutenberg.org/2009/agents/75
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_van_Beethoven
+description: Music file
+gutenberg_issued: '1994-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '156'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'M'
+- !lcsh 'Music'
+- GITenberg
+title: Symphony No. 5 in C minor, Opus 67
+url: http://www.gutenberg.org/ebooks/156
